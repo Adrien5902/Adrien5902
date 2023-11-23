@@ -20,6 +20,8 @@
 
 <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
 
+<img height=18 src="https://minecraft.wiki/images/Minecraft_Launcher_MS_Icon.png" /> MC Function
+
 
 ## 🛠️Tools
 
