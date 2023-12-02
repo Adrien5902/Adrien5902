@@ -57,16 +57,16 @@
 
 <img height=18 src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png"> Tauri
 
+<img height=18 src="https://www.solidjs.com/assets/logo-123b04bc.svg" /> Solid JS
+
+<img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> TailWind CSS
+
 # 🔮Plans to learn
 
 <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /> Svelte
 
 <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> Nuxt.js, 
 <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> Vue.js
-
-<img height=18 src="https://www.solidjs.com/assets/logo-123b04bc.svg" /> Solid JS
-
-<img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> TailWind CSS
 
 <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> Go
 
