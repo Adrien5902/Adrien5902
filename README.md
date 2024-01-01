@@ -28,7 +28,10 @@
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VS Code, [🧰My VS Code extension](https://marketplace.visualstudio.com/items?itemName=Adrien5902.adrien-s-code)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git, 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> Github
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png">
+    <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</picture> Github
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> NPM
 
@@ -41,7 +44,10 @@
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> Discord.JS
 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" /> Socket.io
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png">
+    <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg">
+</picture> Socket.io
 
 <img width=18 src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png"> Puppeteer
 
@@ -51,7 +57,10 @@
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma
 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> Next.js
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+    <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+</picture> Next.js
 
 <img width=18 src="https://rustacean.net/assets/rustacean-flat-happy.png" /> Rust
 
@@ -76,7 +85,10 @@
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> GraphQL
 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> Unity
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec">
+    <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+</picture> Unity
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker
 
