@@ -13,6 +13,8 @@
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> [Typescript](https://www.typescriptlang.org/),
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> [Node.js](https://nodejs.org/)
 
+<img width=18 src="https://rustacean.net/assets/rustacean-flat-happy.png" /> [Rust](https://www.rust-lang.org)
+
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> [HTML](https://en.wikipedia.org/wiki/HTML),
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> [CSS](https://en.wikipedia.org/wiki/CSS)
 
@@ -42,6 +44,8 @@
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> [Electron](electronjs.org/)
 
+<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> [TailWind CSS](https://tailwindcss.com/)
+
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> [Discord.JS](https://discord.js.org/)
 
 <picture>
@@ -62,13 +66,9 @@
     <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </picture> <a href="https://nextjs.org">Next.js</a>
 
-<img width=18 src="https://rustacean.net/assets/rustacean-flat-happy.png" /> [Rust](https://www.rust-lang.org)
-
 <img width=18 src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png"> [Tauri](https://tauri.app)
 
 <img width=18 src="https://www.solidjs.com/assets/logo-123b04bc.svg" /> [Solid JS](https://www.solidjs.com/)
-
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> [TailWind CSS](https://tailwindcss.com/)
 
 # 🔮Plans to learn
 
