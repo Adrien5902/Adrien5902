@@ -46,6 +46,8 @@
 
 <img width=18 src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png"> [Tauri](https://tauri.app)
 
+<img width=18 src="https://bevyengine.org/processed_images/4e424e8bfdfe1d4800.png"> [Bevy](https://bevyengine.org/)
+
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> [TailWind CSS](https://tailwindcss.com/)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> [Discord.JS](https://discord.js.org/)
