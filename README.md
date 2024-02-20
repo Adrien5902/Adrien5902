@@ -13,14 +13,13 @@
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> [Javascript](https://en.wikipedia.org/wiki/JavaScript), 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> [Typescript](https://www.typescriptlang.org/),
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> [Node.js](https://nodejs.org/)
 
 <img width=18 src="https://rustacean.net/assets/rustacean-flat-happy.png" /> [Rust](https://www.rust-lang.org)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> [HTML](https://en.wikipedia.org/wiki/HTML),
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> [CSS](https://en.wikipedia.org/wiki/CSS)
 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /> [Lua](https://www.lua.org/)
+<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> [Lua](https://www.lua.org/)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> [PHP](https://www.php.net/)
 
