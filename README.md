@@ -44,7 +44,11 @@
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> [Electron](electronjs.org/)
 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> [TailWind CSS](https://tailwindcss.com/)
+<img width=18 src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png"> [Tauri](https://tauri.app)
+
+<img width=18 src="https://bevyengine.org/processed_images/4e424e8bfdfe1d4800.png"> [Bevy](https://bevyengine.org/)
+
+<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> [TailWind CSS](https://tailwindcss.com/)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> [Discord.JS](https://discord.js.org/)
 
@@ -65,8 +69,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
     <img height=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </picture> <a href="https://nextjs.org">Next.js</a>
-
-<img width=18 src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png"> [Tauri](https://tauri.app)
 
 <img width=18 src="https://www.solidjs.com/assets/logo-123b04bc.svg" /> [Solid JS](https://www.solidjs.com/)
 
