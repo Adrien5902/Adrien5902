@@ -12,7 +12,7 @@
 ## 🔠Programming languages
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> [Javascript](https://en.wikipedia.org/wiki/JavaScript), 
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> [Typescript](https://www.typescriptlang.org/),
+<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> [Typescript](https://www.typescriptlang.org/)
 
 <img width=18 src="https://rustacean.net/assets/rustacean-flat-happy.png" /> [Rust](https://www.rust-lang.org)
 
