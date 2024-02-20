@@ -5,6 +5,8 @@
 
 <img width=18 src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png"> French self-taught developer
 
+<img src="Banner.png">
+
 # 🚀 My stack
 
 ## 🔠Programming languages
