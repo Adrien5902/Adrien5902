@@ -73,6 +73,8 @@
 
 <img width=18 src="https://www.solidjs.com/assets/logo-123b04bc.svg" /> [Solid JS](https://www.solidjs.com/)
 
+<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> [Java](https://dev.java/)
+
 # 🔮Plans to learn
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /> [Svelte](https://svelte.dev/)
@@ -81,8 +83,6 @@
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> [Vue.js](https://vuejs.org/)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> [Go](https://go.dev/)
-
-<img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> [Java](https://dev.java/)
 
 <img width=18 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> [Postgre SQL](https://www.postgresql.org/)
 
